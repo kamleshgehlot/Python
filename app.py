@@ -1,0 +1,13 @@
+spaces = '  ' * 25
+print ('%s 12 Butts Wynd ' %spaces )
+print ('%s Twinklebttom Heath ' %spaces)
+print ('%s west snoring ' %spaces)
+print()
+print()
+print ('Dear Sir')
+print ()
+print ('I wish ti report that tiles are missing')
+print ('outside toilet roof')
+print()
+print ('Regards')
+print('Kamlesh Gehlot')
